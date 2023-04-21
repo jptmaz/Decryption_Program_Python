@@ -1,4 +1,4 @@
-# Program was originally created on Thursday, April 06, 2023.
+# Program was originally created on Thursday, April 05, 2023.
 
 print("Hello! What shall we decrypt today?")
 encrypted_text = input("Enter the message to be decrypted: ")
